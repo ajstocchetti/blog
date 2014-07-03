@@ -1,0 +1,12 @@
+<!-- Title: mayan solstice celebration -->
+<!-- Location: Pai (northern Thailand) -->
+<!-- Date: 14 January 2013 -->
+<div class="post">
+14 January 2013
+<br />
+Pai (Northern Thailand)
+<div class="title">mayan solstice celebration</div>
+<br />
+<p>Toni, one of the long term volunteers at Panya, went to a Mayan ceremony in Pain for the solstice (12/21/12). Toni was telling me how one of the ideas at the ceremony was that, for the last Mayan cosmic cycle (I think it's something like 52,000 years, but I would have to check to be sure), Earth was absorbing energy. Now, in the new cycle, Earth is radiating out energy, like a star. I find this interesting on two levels. One: if Earth is a star, then it will one day burn out, possibly in a fantastic and cataclysmic way. Two: I like to think of this as a turning point, where now Earth, and the people of Earth, are putting out energy, and knowledge, and love, and whatever else. I wonder what will come of this.</p>
+<p>After the ceremony, Toni went up to one of the leaders and asked about the problems that Earth and humanity are facing. The leader replied that, like pimples on the body are a sign of something wrong within a person's system, these people who head devastating corporations or engage in genocides are signs of problems within humanity. (Essentially: these problems are the zits of humanity.) I've been thinking about this quite a bit. Pimples are a sign of a problem within the body. And popping them will make the zit go away, but the source of the problem still needs to be addressed. So we can't fix problems like Coca-Cola destroying African villages, or BP drilling (and spilling) for oil, or Monsanto being Monsanto by fining these companies firing their CEOs. That's just popping the zit. We need to address the source of the problem - the change has to come from everybody, from our daily activities. From our wants, from our actions. Looking at the body from a holistic standpoint, it gets even more interesting. When I have detoxed in the past, I've noticed trails of pimples along the meridians of my body. The increase in problems in the last couple of decades could be a sign of a "humanity detox." Also, just how acupuncture applies pressure to certain parts of the body and this causes energy to flow in such a way that entire systems change, I wonder if there is a way to do this to humanity (or Earth).</p>
+</div>

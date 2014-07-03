@@ -1,0 +1,11 @@
+<!-- Title: slow week in the rain -->
+<!-- Location:  -->
+<!-- Date: 2 February 2012 -->
+<div class="post">
+2 February 2013
+<div class="title">slow week in the rain</div>
+<br />
+<p>It was a slow week this week. The structure of the new Sala is made up of fourteen teak tree trunks. These posts hold up the truss roof. The walls (made of adobe brick) will fill in the space between the posts. I had the pleasure of starting the second floor this week. So our base is tree trunks. Trees don't grow perfectly straight, and they certainly don't grow square. The 2x4's were using - and I use that measurement loosely - are all salvaged from various other structures around Thailand that have recently been torn down (most likely to be replaced with ugly concrete buildings). So they're old, they're warped, they're ripped. On top of that, Thailand uses both metric and inches, so they range in size from 3 1/2 to 4 inches. The plywood we are using as the floor, however, is brand new, straight, square, factory produced plywood. And I had the lovely job of making sure the 2<sup>nd</sup> floor was going to be square and flat. Oh what fun.</p>
+<p>I was working with Cyril. Cyril is from France. He is the son of a carpenter. As such, he is a perfectionist when it comes to this stuff. But you can't be, not with natural building, not with the materials we have to work with. So on top of struggling to get the floorboards to line up well, I had to make sure Cyril didn't go nuts. It was good. I helped him learn to let things go, and he's helping me with carpentry skills. A win-win, I'd say.</p>
+<p>Additionally, it rained. Thundered. Stormed. Hailed, even. It was crazy. We're in the middle of the dry season. It's not supposed to rain until June. It has rained six times since Tuesday. It's not unheard of to rain once or twice between January and June, but its spread out over a couple of months. And when it does rain, wet or dry season, it never storms. It just rains for 20 minutes or so, and then goes away. It stormed on Tuesday. We had half-inch hail (that's about 1.3 cm for those of you from outside of the US). Kay, the only Thai person at Panya, has lived in Thailand her entire life (I'll guess 35 years). She had never seen hail before. Craziness!</p>
+</div>

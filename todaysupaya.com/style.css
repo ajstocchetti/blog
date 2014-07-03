@@ -1,0 +1,100 @@
+html {
+	height:100%;
+}
+
+body {
+	background-color:#63B8FF;
+	margin:0;
+	height:100%;
+}
+
+div.header {
+	min-height:150px;
+	background-color:#000000;
+	padding-left:0 px;
+	text-align:center;
+}
+
+div.minScreen {
+	min-width:900px;
+	padding-left:0px;
+	margin-left:0px;
+}
+
+div.left {
+	min-width:880px;
+	position:absolute;
+	z-index:1;
+}
+
+div.space {
+	width:230px;
+	float:left;
+	font-size:0;
+	padding:0px;
+	margin:0px;
+}
+
+div.content {
+	width:700px;
+	/*background-color:#EE1234;		 XXXX remove color before publish */
+	float:right;
+	margin-right:180px;
+}
+
+div.title {
+	font-style:italic;
+	font-size:14pt;
+	text-align:center;
+}
+div.post {
+	background-color:#999999;
+	padding:9px;
+	text-align:justify;
+	padding-left:20px;
+	padding-right:20px;
+	padding-top:20px;
+}
+.post a:link, a:active, a:visited {
+	text-decoration:none;
+	font-weight:bold;
+	color:#ffffff;
+}
+.post a:hover {
+	color:yellow;
+}
+
+div.userComment {
+	background-color:#CC3333;
+	padding:9px;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+
+div.menu {
+	width:140px;
+	/*background-color:#115622;#ffff33	*/
+	padding-left:6px;
+	padding-top:6px;
+	background-color:yellow;
+	font-size:14pt;
+	font-family:Tahoma;
+	float:right;
+	margin-right:15px;
+	bottom:0;
+	z-index:2;
+	position:relative;
+	/* setting position to fixed will get the menu to always show as you scroll down,
+	but it messes with the horizontal alignment	*/
+}
+.menu  a {
+	text-decoration:none;
+	color:black;
+}
+
+.phototitle {
+ 	text-align:center;
+	font-family:Copperplate Gothic Light;
+	font-size:150%;
+}
